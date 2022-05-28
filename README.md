@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Tsinghua University.
-- 🌱 I’m currently learning C++/Algorithm/Data Structure.
-- 📫 How to reach me: wang-dh19@mails.tsinghua.edu.cn
+- 🔭 I’m currently studying at Tsinghua University.
+- 🌱 I’m currently learning Distributed System.
+- 📫 How to reach me: 1760730301@qq.com
 
 ![wangdh15's github stats](https://github-readme-stats.vercel.app/api?username=wangdh15&show_icons=true&theme=radical)
