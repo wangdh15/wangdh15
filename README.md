@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![wangdh15's github stats](https://github-readme-stats.vercel.app/api?username=wangdh15&show_icons=true&theme=radical)
 
 
-### sefl-learning courses
+### self-learning courses
 
 - CSAPP [labs](https://github.com/wangdh15/CSAPP)
 - operation system (6.s081) [labs](https://github.com/wangdh15/xv6)
