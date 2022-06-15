@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ![wangdh15's github stats](https://github-readme-stats.vercel.app/api?username=wangdh15&show_icons=true&theme=radical)
 
 
-### self-learning courses
+## self-learning courses
+### Done
 
 - CSAPP [labs](https://github.com/wangdh15/CSAPP)
 - operation system (6.s081) [labs](https://github.com/wangdh15/xv6)
@@ -24,3 +25,8 @@ Here are some ideas to get you started:
 - distributed system (6.824) [labs](https://github.com/wangdh15/6.824-lab)
 - parallel computing (cs149) [labs](https://github.com/wangdh15/cs149)
 - computer graphics (games 101) [labs](https://github.com/wangdh15/games101)
+
+### TODO
+- CS144
+- 6.858
+- Rust
