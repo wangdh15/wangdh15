@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently studying at Tsinghua University.
-- 🌱 I’m currently learning Distributed System.
+- 🔭 I’m currently working for high frequency trading system at wgby.
 - Study ClickHouse and try to contribute.
 - 🔭 C/C++,Python,Go
 - 📫 How to reach me: 1760730301@qq.com
